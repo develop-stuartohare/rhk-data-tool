@@ -3,6 +3,9 @@ logs
 *.log
 npm-debug.log*
 
+data/*
+!data/README.md
+
 # Runtime data
 pids
 *.pid
